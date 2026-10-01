@@ -1,3 +1,5 @@
+package interfaces06
+
 // interface: define un contrato de propiedades y métodos que la clase
 // que la implemente debe sobrescribir con "override". Reemplaza a las
 // funciones/propiedades de extensión del paso anterior.

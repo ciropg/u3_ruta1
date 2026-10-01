@@ -1,3 +1,5 @@
+package cookies
+
 // Funciones de orden superior sobre colecciones: reciben una lambda y
 // operan sobre cada elemento sin necesidad de bucles explícitos.
 

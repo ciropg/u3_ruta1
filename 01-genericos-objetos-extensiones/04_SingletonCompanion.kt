@@ -1,3 +1,5 @@
+package singleton04
+
 // object: crea un singleton, una clase con una única instancia (sin constructor).
 // companion object: un singleton anidado dentro de una clase; sus miembros
 // se acceden usando el nombre de la clase contenedora (Quiz.answered).

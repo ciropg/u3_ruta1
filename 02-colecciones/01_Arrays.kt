@@ -1,3 +1,5 @@
+package arrays
+
 // Array: secuencia de valores del mismo tipo, tamaño FIJO, con acceso
 // aleatorio rápido mediante índice (empezando en 0).
 

@@ -1,3 +1,5 @@
+package eventos
+
 // Práctica: app de seguimiento de eventos diarios.
 // Combina data class, enum class, colecciones (filter, groupBy, last())
 // y propiedades de extensión.

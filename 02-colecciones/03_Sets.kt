@@ -1,3 +1,5 @@
+package sets
+
 // Set: colección SIN orden y SIN duplicados. Usa códigos hash, por eso
 // buscar un elemento (contains) es muy rápido. No tiene índices.
 

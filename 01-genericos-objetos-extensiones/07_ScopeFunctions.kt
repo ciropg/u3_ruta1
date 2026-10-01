@@ -1,3 +1,5 @@
+package scope07
+
 // Funciones de alcance (scope functions): dan acceso a las propiedades de
 // un objeto sin repetir su nombre.
 // let(): dentro de la lambda el objeto se referencia como "it".

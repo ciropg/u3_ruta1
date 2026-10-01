@@ -1,3 +1,5 @@
+package maps
+
 // Map: pares clave-valor creados con "to". Las claves son únicas, los
 // valores pueden repetirse. Si la clave no existe, get() devuelve null.
 

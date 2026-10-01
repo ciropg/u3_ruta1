@@ -1,3 +1,5 @@
+package dataclass03
+
 // data class: para clases que solo guardan datos, Kotlin genera
 // automáticamente equals(), hashCode(), toString(), componentN() y copy().
 

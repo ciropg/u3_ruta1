@@ -1,3 +1,5 @@
+package enum02
+
 // enum class: limita la dificultad a un conjunto fijo de constantes,
 // evitando errores de escritura que ocurrían al usar String.
 

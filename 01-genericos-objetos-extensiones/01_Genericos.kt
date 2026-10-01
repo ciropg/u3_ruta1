@@ -1,3 +1,4 @@
+package genericos01
 // Genéricos: en vez de crear una clase distinta por cada tipo de respuesta
 // (String, Boolean, Int...), usamos un parámetro de tipo <T> que se define
 // al momento de crear la instancia.

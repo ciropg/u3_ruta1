@@ -1,3 +1,5 @@
+package extensiones05
+
 // Propiedades y funciones de extensión: agregan comportamiento a un tipo
 // existente sin modificar su código original (así funcionan .dp y .sp en Compose).
 // Una propiedad de extensión no guarda datos, solo define un get().
